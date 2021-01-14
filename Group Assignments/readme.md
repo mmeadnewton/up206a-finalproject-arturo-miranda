@@ -1,1 +1,1 @@
-## Project proposal
+## Miranda and Arturo Group Assignments
