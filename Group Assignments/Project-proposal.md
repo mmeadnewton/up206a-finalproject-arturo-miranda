@@ -22,5 +22,5 @@ If this proves to be too ambitious, we can remove the variable of bus frequency 
 - Number of jobs per Census tract (link to come, but should be available via the census website)
 - [Average income by Census tract][census income]
 
-[NextGen and old bus route data]: (https://www.metro.net/projects/nextgen/nextgen-data-and-analysis/)
-[census income]: (https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0500000US06037.140000&tid=ACSST5Y2019.S1903&hidePreview=true)
+[NextGen and old bus route data]: https://www.metro.net/projects/nextgen/nextgen-data-and-analysis/
+[census income]: https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0500000US06037.140000&tid=ACSST5Y2019.S1903&hidePreview=true
